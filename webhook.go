@@ -11,7 +11,8 @@ import (
 	"github.com/yevhenshymotiuk/telegram-lambda-helpers/apigateway"
 )
 
-func setWebhook(
+// SetWebhook sets Telegram webhook to get updates
+func SetWebhook(
 	request events.APIGatewayProxyRequest,
 	telegramToken string,
 ) (apigateway.Response, error) {
