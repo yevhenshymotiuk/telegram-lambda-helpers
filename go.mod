@@ -1,4 +1,4 @@
-module github.com/yevhenshymotiuk/telegram-lambda-webhook
+module github.com/yevhenshymotiuk/telegram-lambda-helpers
 
 go 1.14
 
