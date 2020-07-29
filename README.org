@@ -1,0 +1,4 @@
+#+TITLE: telegram-lambda-helpers
+
+* Purpose
+Provides helpers for deployment Telegram bots in Go language to AWS Lambda
