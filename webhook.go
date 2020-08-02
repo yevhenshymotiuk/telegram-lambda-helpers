@@ -7,7 +7,7 @@ import (
 	"log"
 
 	"github.com/aws/aws-lambda-go/events"
-	"github.com/go-telegram-bot-api/telegram-bot-api"
+	tgbotapi "github.com/go-telegram-bot-api/telegram-bot-api"
 	"github.com/yevhenshymotiuk/telegram-lambda-helpers/apigateway"
 )
 
