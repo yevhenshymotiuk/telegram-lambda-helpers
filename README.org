@@ -1,6 +1,6 @@
 #+TITLE: telegram-lambda-helpers
 
-[[http://godoc.org/github.com/yevhenshymotiuk/telegram-lambda-helpers][https://godoc.org/github.com/go-telegram-bot-api/telegram-bot-api?status.svg]]
+[[https://pkg.go.dev/github.com/yevhenshymotiuk/telegram-lambda-helpers][https://pkg.go.dev/badge/github.com/yevhenshymotiuk/telegram-lambda-helpers?.svg]]
 
 #+BEGIN_QUOTE
 Helpers for deployment Telegram bots in Go to AWS Lambda
